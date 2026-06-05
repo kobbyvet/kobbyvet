@@ -61,7 +61,4 @@
 
 ⭐ Feel free to explore my repositories and connect with me!
 **kobbyvet/kobbyvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 -->
