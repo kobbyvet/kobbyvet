@@ -6,7 +6,6 @@
 <p align="center">
   Passionate about transforming data into actionable insights through analytics, visualization, and business intelligence.
 </p>
-
 ---
 
 ### 👨‍💻 About Me
