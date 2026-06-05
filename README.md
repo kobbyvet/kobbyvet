@@ -38,17 +38,7 @@
 - Dashboard Development
 - Data Visualization
 - Business Intelligence
-
 ---
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kobbybvet&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobbybvet&layout=compact)
-
----
-
 ### 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/benjamin-dadzie-analyst
