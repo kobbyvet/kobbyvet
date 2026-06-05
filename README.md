@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kobby
+# Hi 👋, I'm Benjamin Dadzie
 
 ## Data Analyst
 
