@@ -33,6 +33,7 @@
 - SQL
 - Excel
 - Tableau
+- Python
 - Microsoft Fabric
 - Data Cleaning & Transformation
 - Dashboard Development
