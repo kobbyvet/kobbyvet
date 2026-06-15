@@ -11,7 +11,6 @@
 - 📊 Data Analyst
 - 🇬🇧 Based in the United Kingdom
 - 📈 Skilled in data analysis, reporting, and dashboard development
-- 🌱 Currently expanding my expertise in Microsoft Fabric and advanced analytics
 - 💡 Interested in Business Intelligence, Data Visualization, and Data-Driven Decision Making
 
 ---
